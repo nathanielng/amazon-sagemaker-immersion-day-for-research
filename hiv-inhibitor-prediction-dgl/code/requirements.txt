@@ -1,3 +1,9 @@
 dgl==0.6.1
 dgllife==0.2.8
 rdkit-pypi==2021.09.3
+certifi>=2023.7.22 # not directly required, pinned by Snyk to avoid a vulnerability
+joblib>=1.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
+networkx>=2.6 # not directly required, pinned by Snyk to avoid a vulnerability
+numpy>=1.22.2 # not directly required, pinned by Snyk to avoid a vulnerability
+requests>=2.31.0 # not directly required, pinned by Snyk to avoid a vulnerability
+scipy>=1.10.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
