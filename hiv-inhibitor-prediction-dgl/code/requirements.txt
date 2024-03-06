@@ -1,3 +1,4 @@
-dgl==0.6.1
+dgl==0.9.0
 dgllife==0.2.8
 rdkit-pypi==2021.09.3
+numpy>=1.22.2 # not directly required, pinned by Snyk to avoid a vulnerability
