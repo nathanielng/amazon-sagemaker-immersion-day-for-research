@@ -1,3 +1,4 @@
 dgl==0.6.1
 dgllife==0.2.8
 rdkit-pypi==2021.09.3
+scikit-learn>=1.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
